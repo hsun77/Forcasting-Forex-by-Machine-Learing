@@ -1,1 +1,3 @@
-# Frocasting Forex
+# Forcasting Forex
+
+## 1. Summary
